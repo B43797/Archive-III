@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://b43797.github.io/Bahbouhi-decomposing-Goldbach-conjecture2025/sitemap.txt
